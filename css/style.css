@@ -1,7 +1,7 @@
 .container {
-    background-color: maroon;
+    background-color: lightcyan;
     opacity: 0.8;
-    width: 90%;
+    /* width: 90%; */
     margin:  auto;
     padding: 5em 6em;
 }
@@ -15,16 +15,17 @@
 }
 .middle1 {
     /* background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg); */
+    /* box-shadow: 5px 5px 5px 5px grey; */
+
 }
 .my-pic {
-    text-align: center;
-    border-radius: 8px;
+    /* text-align: center; */
+    text-align: right;
 }
 .middle {
-    text-align: center;
+    /* text-align: center; */
     display: flex;
     justify-content: space-between;
-    /* background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg); */
     opacity: 0.8;
-    color: white;
+    color: black;
 }
