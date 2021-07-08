@@ -1,5 +1,5 @@
 .container {
-    background-color: maroon;
+    background-color: rgb(209, 201, 201);
     opacity: 0.8;
     width: 90%;
     margin:  auto;
@@ -8,13 +8,22 @@
 .top {
     text-align: center;
     background-repeat: no-repeat;
-    /* padding-top: 300px; */
+    background-color: maroon;
+    /* padding-top: 30px; */
     box-shadow: 5px 5px 5px 5px grey;
-
 }
 .middle1 {
     background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg);
 }
 .my-pic {
     text-align: center;
+    border-radius: 8px;
+}
+.middle {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg);
+    opacity: 0.8;
+    color: white;
 }
