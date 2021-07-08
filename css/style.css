@@ -1,0 +1,14 @@
+.container {
+    background-color: maroon;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5em 6em;
+}
+.top {
+    text-align: center;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    /* padding-top: 300px; */
+    box-shadow: 5px 5px 5px 5px grey;
+
+}
