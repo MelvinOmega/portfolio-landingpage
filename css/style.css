@@ -1,5 +1,5 @@
 .container {
-    background-color: rgb(209, 201, 201);
+    background-color: maroon;
     opacity: 0.8;
     width: 90%;
     margin:  auto;
@@ -8,9 +8,10 @@
 .top {
     text-align: center;
     background-repeat: no-repeat;
-    background-color: maroon;
-    /* padding-top: 30px; */
+    background-color: white;
+    /* padding-top: 300px; */
     box-shadow: 5px 5px 5px 5px grey;
+
 }
 .middle1 {
     background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg);
