@@ -1,12 +1,12 @@
 .container {
     background-color: maroon;
+    opacity: 0.8;
     width: 90%;
     margin:  auto;
     padding: 5em 6em;
 }
 .top {
     text-align: center;
-    opacity: 0.6;
     background-repeat: no-repeat;
     /* padding-top: 300px; */
     box-shadow: 5px 5px 5px 5px grey;
