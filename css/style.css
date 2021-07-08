@@ -1,14 +1,17 @@
 .container {
     background-color: maroon;
-    width: 80%;
-    margin: 0 auto;
+    width: 90%;
+    margin:  auto;
     padding: 5em 6em;
 }
 .top {
     text-align: center;
-    opacity: 0.5;
+    opacity: 0.6;
     background-repeat: no-repeat;
     /* padding-top: 300px; */
     box-shadow: 5px 5px 5px 5px grey;
 
+}
+.middle1 {
+    background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg);
 }
