@@ -14,7 +14,7 @@
 
 }
 .middle1 {
-    background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg);
+    /* background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg); */
 }
 .my-pic {
     text-align: center;
@@ -24,7 +24,7 @@
     text-align: center;
     display: flex;
     justify-content: space-between;
-    background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg);
+    /* background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg); */
     opacity: 0.8;
     color: white;
 }
