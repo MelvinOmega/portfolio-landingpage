@@ -10,8 +10,13 @@
     text-align: center;
     background-repeat: no-repeat;
     background-color: white;
-    /* padding-top: 300px; */
+    padding-top: 400px; 
     box-shadow: 5px 5px 5px 5px grey;
+    background-image: url(/assets/MzYzNjYzMw.jpeg) ;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    /* padding: 90px; */
 
 }
 .middle1 {
@@ -31,4 +36,14 @@
     justify-content: space-between;
     opacity: 0.8;
     color: black;
+}
+.rectangle {
+
+position: absolute;
+width: 781px;
+height: 100px;
+left: 310px;
+top: 134px;
+
+background: rgba(196, 196, 196, 0.5);
 }
