@@ -3,7 +3,10 @@
     opacity: 0.8;
     /* width: 90%; */
     margin:  auto;
-    padding: 5em 6em;
+    padding: 4em 6em;
+    box-shadow: 5px 5px 5px 5px grey;
+
+
 }
 .top {
     text-align: center;
@@ -14,13 +17,15 @@
 
 }
 .middle1 {
-    background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg); */
-    box-shadow: 5px 5px 5px 5px grey;
+    background-image: url(/assets/photo-1621707110477-86dd1e471262.jpeg); 
+    /* box-shadow: 5px 5px 5px 5x white; */
 
 }
 .my-pic {
     text-align: center;
     text-align: right;
+    box-shadow: 5px 5px 5px 8px grey;
+
 }
 .middle {
     text-align: center;
