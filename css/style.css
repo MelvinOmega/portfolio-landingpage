@@ -48,11 +48,16 @@ top: 134px;
 background: rgba(196, 196, 196, 0.5);
 }
 #about-me {
-    container {
-        width: 100%;
-        padding-right: 15px;
-        padding-left: 15px;
-        margin-right: auto;
-        margin-left: auto;
-    }
+ width: 100%;
+ padding-right: 15px;
+ padding-left: 15px;
+ margin-right: auto;
+ margin-left: auto;
+}
+#about-me .row {
+    margin-left: -.75rem;
+    margin-right: -.75rem;
+}
+.row {
+    display: flex;
 }
