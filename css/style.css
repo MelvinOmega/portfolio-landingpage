@@ -1,0 +1,53 @@
+body {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container {
+    background-color: pink;
+    opacity: 0.8;
+    margin:  auto;
+    padding: 4em 12em;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+.top {
+    text-align: center;
+    background-repeat: no-repeat;
+    padding-top: 400px; 
+    box-shadow: 5px 5px 5px 5px grey;
+    background-image: url(../assets/bck.jpg);
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+
+}
+.middle {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.rectangle {
+position: absolute;
+width: 781px;
+height: 100px;
+left: 310px;
+top: 134px;
+
+background: rgba(196, 196, 196, 0.5);
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#about-me {
+ width: 100%;
+ padding-right: 15px;
+ padding-left: 15px;
+ margin-right: auto;
+ margin-left: 200PX;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}   
+
