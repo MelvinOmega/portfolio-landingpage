@@ -1,19 +1,12 @@
 body {
-    background-color: black;
-    color: rgba(255,255,255,0.8);
-    /* background-image: url(../assets/107075825-minimal-work-space-creative-flat-lay-photo-of-workspace-desk-top-view-office-desk-with-laptop-notebo.jpg); */
-    /* opacity: 0.8; */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    /* z-index: -1; */
 }
 .container {
     background-color: pink;
-    /* background-color: lightcyan; */
     opacity: 0.8;
-    /* width: 90%; */
     margin:  auto;
     padding: 4em 12em;
     box-shadow: 5px 5px 5px 5px grey;
@@ -21,37 +14,20 @@ body {
 .top {
     text-align: center;
     background-repeat: no-repeat;
-    /* background-color: white; */
     padding-top: 400px; 
     box-shadow: 5px 5px 5px 5px grey;
     background-image: url(../assets/bck.jpg);
     background-size: cover;
     height: 100px;
     width: 100%;
-    /* padding: 90px; */
-
-}
-.middle1 {
-    /* background-color: maroon; */
-    /* background-image: url(/assets/portfolio-background.jpeg);  */
-    /* box-shadow: 5px 5px 5px 5x white; */
-
-}
-.my-pic {
-    /* text-align: center; */
-    /* text-align: right; */
-    /* box-shadow: 1px 2px 8px 8px grey; */
 
 }
 .middle {
     text-align: center;
     display: flex;
     justify-content: space-between;
-    /* opacity: 0.8; */
-    /* color: black; */
 }
 .rectangle {
-
 position: absolute;
 width: 781px;
 height: 100px;
@@ -62,24 +38,16 @@ background: rgba(196, 196, 196, 0.5);
 }
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 40p;
 }
 #about-me {
  width: 100%;
  padding-right: 15px;
  padding-left: 15px;
  margin-right: auto;
- margin-left: auto;
+ margin-left: 200PX;
 }
 h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blue;
 }   
 
-/* #about-me .row {
-    margin-left: -.75rem;
-    margin-right: -.75rem;
-} */
-/* .row {
-    display: flex;
-} */
