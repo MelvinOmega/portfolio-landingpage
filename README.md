@@ -12,7 +12,7 @@ Currently there are no bugs detected.
 ## Support and contact details
 In case of any query or concern, kindly reach out to me via: Tel no. 0798992107 or email me at melvinomega151@gmail.com
 ### License
-[MIT(https://choosealicense.com/licenses/mit/)] (https://choosealicense.com/licenses/mit/)
+[MIT(https://choosealicense.com/licenses/mit/)]
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) 2021 **Omega Melvin**
   
